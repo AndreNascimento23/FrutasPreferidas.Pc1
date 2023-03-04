@@ -1,0 +1,14 @@
+﻿Console.Clear();
+Console.WriteLine();
+Console.ForegroundColor = ConsoleColor.Blue;
+Console.WriteLine("--- Minhas Frutas Preferidas ---");
+Console.ResetColor();
+Console.WriteLine();
+Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("1. Maçã");
+Console.WriteLine("2. Pessego");
+Console.WriteLine("3. Kiwi");
+Console.WriteLine("4. Manga");
+Console.WriteLine("5. Uva");
+Console.WriteLine();
+Console.ResetColor();
